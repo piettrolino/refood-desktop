@@ -12,10 +12,6 @@ Um aplicativo desktop desenvolvido em Python para facilitar o registro, gerencia
 <img width="602" height="512" alt="telainicial pnh" src="https://github.com/user-attachments/assets/074a44d0-7929-43b1-a006-9cb922a1be88" />
 <img width="402" height="532" alt="doacao" src="https://github.com/user-attachments/assets/5c6f2658-d462-413c-b4e3-e42a06b0f249" />
 <img width="402" height="532" alt="registrodoacao" src="https://github.com/user-attachments/assets/9eabf776-1faa-41f3-9e77-eb2ea3280b33" />
-*(Nota: Quando subir para o GitHub, arraste e solte suas imagens aqui para substituir estes textos)*
-* `![Menu Principal](link_da_imagem_do_menu)`
-* `![Tela de Registro](link_da_imagem_de_registro)`
-* `![Busca e Relatórios](link_da_imagem_do_relatorio)`
 
 ---
 
