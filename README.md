@@ -6,12 +6,12 @@ Um aplicativo desktop desenvolvido em Python para facilitar o registro, gerencia
 ---
 
 ## 📸 Demonstração do Sistema
-<img width="224" height="172" alt="resultadopesquisa" src="https://github.com/user-attachments/assets/a344ecd6-d17e-4d43-a2de-75954fad541a" />
-<img width="302" height="182" alt="pesquisa" src="https://github.com/user-attachments/assets/5867bcd4-7cbf-41b9-a580-a0844369c562" />
-<img width="502" height="432" alt="pesquisatotal" src="https://github.com/user-attachments/assets/588b02b6-c87a-41e5-ba18-e9a6723f9b88" />
-<img width="602" height="512" alt="telainicial pnh" src="https://github.com/user-attachments/assets/074a44d0-7929-43b1-a006-9cb922a1be88" />
-<img width="402" height="532" alt="doacao" src="https://github.com/user-attachments/assets/5c6f2658-d462-413c-b4e3-e42a06b0f249" />
-<img width="402" height="532" alt="registrodoacao" src="https://github.com/user-attachments/assets/9eabf776-1faa-41f3-9e77-eb2ea3280b33" />
+<img width="400" height="172" alt="resultadopesquisa" src="https://github.com/user-attachments/assets/a344ecd6-d17e-4d43-a2de-75954fad541a" />
+<img width="400" height="182" alt="pesquisa" src="https://github.com/user-attachments/assets/5867bcd4-7cbf-41b9-a580-a0844369c562" />
+<img width="400" height="432" alt="pesquisatotal" src="https://github.com/user-attachments/assets/588b02b6-c87a-41e5-ba18-e9a6723f9b88" />
+<img width="400" height="512" alt="telainicial pnh" src="https://github.com/user-attachments/assets/074a44d0-7929-43b1-a006-9cb922a1be88" />
+<img width="400" height="532" alt="doacao" src="https://github.com/user-attachments/assets/5c6f2658-d462-413c-b4e3-e42a06b0f249" />
+<img width="400" height="532" alt="registrodoacao" src="https://github.com/user-attachments/assets/9eabf776-1faa-41f3-9e77-eb2ea3280b33" />
 
 ---
 
