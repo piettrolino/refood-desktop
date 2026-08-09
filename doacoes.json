@@ -1,0 +1,77 @@
+[
+  {
+    "alimento": "Açucar",
+    "validade": "20/8/2027",
+    "bairro": "Jd Brasil",
+    "contato": "piettro@gmail.com"
+  },
+  {
+    "alimento": "a",
+    "validade": "a",
+    "bairro": "a",
+    "contato": "a"
+  },
+  {
+    "alimento": "Açucar",
+    "quantidade": "2 kg",
+    "validade": "NC",
+    "bairro": "Floresta",
+    "contato": "piettrin@gmail.com"
+  },
+  {
+    "alimento": "Açucar",
+    "quantidade": "1 kg",
+    "validade": "20/06/2026",
+    "bairro": "Floresta",
+    "contato": "piettrin@gmail.com"
+  },
+  {
+    "alimento": "Coca-Cola",
+    "quantidade": "2 L",
+    "validade": "20/06/2026",
+    "bairro": "Floresta",
+    "contato": "piettrin@gmail.com"
+  },
+  {
+    "alimento": "a",
+    "quantidade": "a '",
+    "validade": "a",
+    "bairro": "a",
+    "contato": "a"
+  },
+  {
+    "alimento": "a",
+    "quantidade": "1 kg",
+    "validade": "01/01/2011",
+    "bairro": "15",
+    "contato": "1"
+  },
+  {
+    "alimento": "mamao",
+    "quantidade": "2 kg",
+    "validade": "30/06/2025",
+    "bairro": "Floresta",
+    "contato": "piettro@gmail.com"
+  },
+  {
+    "alimento": "teste1",
+    "quantidade": "1 kg",
+    "validade": "01/01/2026",
+    "bairro": "teste1",
+    "contato": "teste1@gmail.com"
+  },
+  {
+    "alimento": "teste2",
+    "quantidade": "1 kg",
+    "validade": "10/07/2028",
+    "bairro": "teste2",
+    "contato": "teste2@gmail.com"
+  },
+  {
+    "alimento": "arroz",
+    "quantidade": "1 unidade(s)",
+    "validade": "NA",
+    "bairro": "aqui",
+    "contato": "eu@gmail.com"
+  }
+]
